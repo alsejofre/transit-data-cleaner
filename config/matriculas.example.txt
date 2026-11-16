@@ -1,0 +1,9 @@
+# Diccionario de matrículas de EJEMPLO (ficticias).
+# Copia este archivo como config/matriculas.txt y pon las matrículas reales de la flota.
+# Una por línea (también valen varias separadas por comas). '#' = comentario.
+
+5305FTR, 2471FTR, 6468FTR, 0791FTR, 1186FTR, 8779FTR
+1542GKP, 5991GKP, 9548GKP, 0950GKP, 8313GKP, 3517GKP
+0614HLM, 1408HLM, 7104HLM, 6851HLM, 1144HLM, 3943HLM
+1486JNB, 9028JNB, 6955JNB, 0968JNB, 9264JNB, 2028JNB
+3657KRT, 9551KRT, 1013KRT, 9455KRT, 9593KRT, 6499KRT
