@@ -1,0 +1,31 @@
+# ── Datos: NUNCA se suben (contienen datos de clientes y personales) ──
+data/**
+!data/raw/
+!data/processed/
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+~$*
+
+# ── Diccionario real de matrículas (flota del cliente) ──
+config/matriculas.txt
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# ── Editor / sistema ──
+.idea/
+.vscode/*
+!.vscode/settings.json
+.DS_Store
+Thumbs.db
+desktop.ini
